@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="video_list_margin_top">40.0dip</dimen>
+    <dimen name="video_list_margin_bottom">5.0dip</dimen>
+    <dimen name="play_page_margin_bottom_reflection">40.0dip</dimen>
+    <dimen name="play_page_margin_bottom">40.0dip</dimen>
+    <dimen name="play_page_margin_top">80.0dip</dimen>
+    <dimen name="play_page_margin_top_reflection">120.0dip</dimen>
+    <dimen name="play_page_margin_left">40.0dip</dimen>
+    <dimen name="play_page_margin_right">40.0dip</dimen>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="siz1">18.0sp</dimen>
+    <dimen name="siz2">16.0sp</dimen>
+    <dimen name="siz3">16.0sp</dimen>
+    <dimen name="siz4">14.0sp</dimen>
+    <dimen name="siz5">12.0sp</dimen>
+    <dimen name="spa1">16.0dip</dimen>
+    <dimen name="spa2">12.0dip</dimen>
+    <dimen name="spa3">8.0dip</dimen>
+    <dimen name="spa4">8.0dip</dimen>
+    <dimen name="spa5">5.0dip</dimen>
+    <dimen name="pad1">16.0dip</dimen>
+    <dimen name="pad2">12.0dip</dimen>
+    <dimen name="pad3">8.0dip</dimen>
+    <dimen name="pad4">5.0dip</dimen>
+    <dimen name="dp57">57.0dip</dimen>
+    <dimen name="dp360">360.0dip</dimen>
+    <dimen name="dp202">202.0dip</dimen>
+    <dimen name="dp110">110.0dip</dimen>
+    <dimen name="dp153">153.0dip</dimen>
+    <dimen name="dp4">4.0dip</dimen>
+    
+    <dimen name="dp2">2.0dip</dimen>
+     
+    <dimen name="dp40">40.0dip</dimen>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+          <!-- 字幕 -->
+  <dimen name="_4ui_duplayer_subtitle_font_size">24sp</dimen>
+  <dimen name="_4ui_duplayer_subtitle_setting_font">17dip</dimen>
+  <dimen name="_4ui_duplayer_subtitle_setting_width">277.5dip</dimen>
+  <dimen name="_4ui_duplayer_subtitle_setting_height">190dip</dimen>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  	
+    <dimen name="v3_siz1">18.0sp</dimen>
+    <dimen name="v3_siz2">16.0sp</dimen>
+    <dimen name="v3_siz3">14.0sp</dimen>
+    <dimen name="v3_siz4">13.0sp</dimen>
+    <dimen name="v3_siz5">12.0sp</dimen>
+    <dimen name="v3_siz6">11.0sp</dimen>
+    <dimen name="v3_spa1">24.0dip</dimen>
+    <dimen name="v3_spa2">23.0dip</dimen>
+    <dimen name="v3_spa3">16.0dip</dimen>
+    <dimen name="v3_spa4">15.0dip</dimen>
+    <dimen name="v3_spa5">8.0dip</dimen>
+    <dimen name="v3_spa6">6.0dip</dimen>
+    <dimen name="v3_spa7">5.0dip</dimen>
+    <dimen name="v3_pad1">24.0dip</dimen>
+    <dimen name="v3_pad2">16.0dip</dimen>
+    <dimen name="v3_pad3">12.0dip</dimen>
+    <dimen name="v3_pad4">10.0dip</dimen>
+    <dimen name="v3_pad5">8.0dip</dimen>
+    <dimen name="v3_pad6">6.0dip</dimen>
+    <dimen name="v3_pad7">5.0dip</dimen>
+    <dimen name="v3_pad8">23.0dip</dimen>
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- slide menu -->
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+</resources>

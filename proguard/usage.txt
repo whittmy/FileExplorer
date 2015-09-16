@@ -1,0 +1,16 @@
+fileexplorer.lemoon.BuildConfig
+fileexplorer.lemoon.DevicesActivity:
+    public static final java.lang.String TAG
+fileexplorer.lemoon.ListAdapter:
+    protected static final java.lang.String TAG
+fileexplorer.lemoon.MusicDlg:
+    30:34:public MusicDlg(android.content.Context)
+fileexplorer.lemoon.R
+fileexplorer.lemoon.R$attr
+fileexplorer.lemoon.R$color
+fileexplorer.lemoon.R$dimen
+fileexplorer.lemoon.R$drawable
+fileexplorer.lemoon.R$id
+fileexplorer.lemoon.R$layout
+fileexplorer.lemoon.R$string
+fileexplorer.lemoon.R$style

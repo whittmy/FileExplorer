@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="mediacontroller_bg_pressed">#ff53c1bd</color>
+    <color name="mediacontroller_bg">#99000000</color>
+    <color name="solid_red">#ffff0000</color>
+    <color name="solid_blue">#ff0000ff</color>
+    <color name="solid_green">#ff00ff00</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="color_video_title">#ff36acff</color>
+    <color name="color_video_item_divide">#ff0883ae</color>
+    <color name="color_video_item_bg2">#80000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="seekbar_bg_start">#ff4d4d4d</color>
+    <color name="seekbar_bg_end">#ff4d4d4d</color>
+    <color name="seekbar_secondary_start">#7fc6eafe</color>
+    <color name="seekbar_secondary_end">#7fc6eafe</color>
+    <color name="seekbar_progress_start">#ff00a2ff</color>
+    <color name="seekbar_progress_end">#ff00fcff</color>
+    <color name="cor1">#ffffffff</color>
+    <color name="cor2">#ff909496</color>
+    <color name="cor3">#ff4d4f50</color>
+    <color name="cor4">#ff00b1a2</color>
+    <color name="cor5">#ff1fabd8</color>
+    <color name="cor6">#ffe96f4a</color>
+    <color name="cor7">#fff8f8f8</color>
+    <color name="cor8">#ffe5e5e5</color>
+    <color name="cor9">#ffa7b0b4</color>
+    <color name="cor10">#ffe96f4a</color>
+    <color name="cor11">#ff1fabd8</color>
+    <color name="line">#ffcdcdcd</color>
+    <color name="line_1">#ffe0e0e0</color>
+    <color name="line_2">#fff0f0f0</color>
+    <color name="title_rg">#fff8f8f8</color>
+    
+    
+    
+    <!-- yun -->
+        <color name="yellow">#FFF000</color>
+    <color name="gray">#A6A6A0</color>
+    <color name="orange">#ff9900</color>
+    <color name="deepcolor">#faaa5f</color>
+    <color name="shadowcolor">#333333</color>
+    <color name="naming">#ABABAB</color>
+    <color name="red">#FF0000</color>
+    <color name="background">#272727</color>
+    <color name="orange_yellow">#9b9ba0</color>
+
+    <drawable name="semi_black">#80000000</drawable>
+
+    <color name="remote_connect_text">#FFe78018</color>
+    <color name="remote_disconnect_text">#FF901821</color>
+    
+</resources>
